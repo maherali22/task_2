@@ -15,9 +15,6 @@ const Content = () => {
         <button className="bg-blue-600 text-white  px-3 py-2 rounded hover:bg-blue-800 hover:text-gray-300 transitions">
           Read more
         </button>
-        <button className="bg-blue-600 text-white  px-3 py-2 rounded hover:bg-blue-800 hover:text-gray-300 transitions">
-          Contact us
-        </button>
       </div>
 
       <div
