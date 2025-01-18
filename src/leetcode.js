@@ -20,3 +20,18 @@ const maxProfit = function (prices) {
 };
 
 console.log(maxProfit([7, 1, 5, 3, 6, 4]));
+
+//question: 136. Single Number
+var singleNumber = function (nums) {
+  let result = 0;
+  for (let i = 0; i < nums.length; i++) {
+    result ^= nums[i];
+  }
+  return result;
+};
+
+console.log(singleNumber([4, 1, 2, 1, 2]));
+
+//question: 217. Contains Duplicate
+
+
