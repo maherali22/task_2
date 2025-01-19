@@ -12,7 +12,7 @@ const Content = () => {
           Dominion dry make shall is is greater fish moving set seas open man
           which. Green make appear moveth fruit likeness
         </p>
-        <button className="bg-blue-600 text-white  px-3 py-2 rounded hover:bg-blue-800 hover:text-gray-300 transitions">
+        <button className="bg-blue-400 text-white  px-3 py-2 rounded hover:bg-blue-800 hover:text-gray-300 transitions">
           Read more
         </button>
       </div>
