@@ -4,8 +4,8 @@ import Content from "./frontend";
 function App() {
   return (
     <div>
-      {/* <Content /> */}
-      <Example />
+      <Content />
+      {/* <Example /> */}
     </div>
   );
 }
